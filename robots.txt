@@ -1,2 +1,4 @@
-User-agent: *
+User-Agent: *
 Allow: /
+
+Sitemap: https://quisui.github.io/clinica-rehabilita-site/sitemap.xml
